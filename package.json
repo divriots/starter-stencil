@@ -6,13 +6,13 @@
   "type": "module",
   "homepage": "{{ homepage }}",
   "scripts": {
-    "serve": "npx backlight@latest serve QkW5BZeKiOuAcRK1OWU5 --open"
+    "serve": "npx backlight@latest serve MOV89I6ednoSqN79Cwp9 --open"
   },
   "devDependencies": {},
   "dependencies": {
     "classnames": "*",
     "@stencil/core": "2.14.2",
     "stencil-jsx-runtime": "0.1.0",
-    "@divriots/dockit-stencil": "0.0.13"
+    "@divriots/dockit-stencil": "0.0.15"
   }
 }
